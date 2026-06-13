@@ -1,0 +1,258 @@
+CATEGORY: LEAD SCREW
+
+---
+
+Product Name:
+13 Inch Stainless Steel Lead Screw
+
+Image:
+lead-screw1.webp
+
+Description:
+Stainless steel lead screw designed for smooth and reliable linear motion applications.
+
+Specifications:
+Diameter: 15 mm
+Material: Stainless Steel
+Size: 13 Inch
+Color: Silver
+Shape: Cylindrical
+
+---
+
+Product Name:
+1.5 Inch Stainless Steel Lead Screw
+
+Image:
+lead-screw2.webp
+
+Description:
+Compact stainless steel lead screw suitable for machine linkage and precision motion systems.
+
+Specifications:
+Diameter: 8 mm
+Material: Stainless Steel
+Size: 1.5 Inch
+Color: Silver
+Shape: Cylindrical
+Usage/Application: As A Linkage In A Machine
+
+---
+
+Product Name:
+3 Inch Ball Lead Screw
+
+Image:
+lead-screw3.webp
+
+Description:
+Precision ball lead screw designed for efficient force transmission and linear movement.
+
+Specifications:
+Size: 3 Inch
+Diameter: 15 mm
+Material: Stainless Steel
+Color: Silver, Golden Base
+Usage/Application: To Create Large Forces
+
+---
+
+Product Name:
+5 Inch Ball Lead Screw
+
+Image:
+lead-screw4.webp
+
+Description:
+High-quality ball lead screw manufactured for accurate motion control applications.
+
+Specifications:
+Size: 5 Inch
+Diameter: 8 mm
+Material: Stainless Steel
+Color: Silver, Golden Base
+Usage/Application: To Create Large Forces
+
+CATEGORY: JACK SCREW
+
+---
+
+Product Name:
+1.5 Inch Mild Steel Jack Screw
+
+Image:
+jack-screw1.webp
+
+Description:
+Mild steel jack screw designed for pushing, pulling, tensioning, and locking applications.
+
+Specifications:
+Screw Length: 1.5 Inch
+Screw Material: Mild Steel
+Diameter: M2 (2 mm)
+Screw Head: Flat
+Usage/Application: Push, Pull, Tension, Lock
+
+---
+
+Product Name:
+200 mm Mild Steel Jack Screw
+
+Image:
+jack-screw2.webp
+
+Description:
+Heavy-duty mild steel jack screw suitable for lifting moderate and heavy loads.
+
+Specifications:
+Material: Mild Steel
+Size: 200 x 30 mm (L x W)
+Shape: Round
+Type: Standard Beds
+Finishing: Polished
+Usage: To Lift Moderate And Heavy Weights
+
+CATEGORY: LOCK NUT
+
+---
+
+Product Name:
+Mild Steel Jack Lock Nut Set
+
+Image:
+lock-nut1.webp
+
+Description:
+Precision-engineered mild steel lock nut set designed for secure fastening applications.
+
+Specifications:
+Material: Mild Steel
+Nut Type: Broaching
+Surface Finishing: Polished
+Colour: Silver
+Usage: Automotive, Aerospace, Agriculture
+Hardness: 60 HRC
+
+---
+
+Product Name:
+Stainless Steel Lock Nut Set
+
+Image:
+lock-nut2.webp
+
+Description:
+High-quality stainless steel lock nut set manufactured for secure locking and bearing applications.
+
+Specifications:
+Material: Stainless Steel
+Nut Type: Broaching
+Self Locking Mechanism: Yes
+Inner Diameter: 4 mm
+Color: Silver And Golden
+Usage/Application: Locate Bearings Onto A Shaft
+
+CATEGORY: BRASS BEARING
+
+---
+
+Product Name:
+20 mm Golden Brass Bearing
+
+Image:
+brass-bearing1.webp
+
+Description:
+High-quality brass bearing designed for smooth operation and reliable performance in industrial applications.
+
+Specifications:
+Inner Diameter: 20 mm
+Material: Brass
+Length: 1.500 Inch
+Surface Finish: Polished
+Tensile Strength: 350 MPa
+Color: Golden
+
+---
+
+Product Name:
+25 mm Polished Brass Bearing
+
+Image:
+brass-bearing2.webp
+
+Description:
+Precision-manufactured brass bearing suitable for machinery and engineering applications.
+
+Specifications:
+Inner Diameter: 25 mm
+Length: 1.500 Inch
+Surface Finish: Polished
+Color: Golden (Base)
+Material: Brass
+
+CATEGORY: BRASS BUSH
+
+---
+
+Product Name:
+Golden Round Brass Bushes
+
+Image:
+brass-bush1.webp
+
+Description:
+Premium-quality brass bush designed for pipe fitting and engineering applications.
+
+Specifications:
+Inner Diameter: 1.00 Inch
+Length: 1.250 Inch
+Color: Golden (Base)
+Material: Brass
+Usage: Pipe Fitting
+Head Shape: Round
+
+CATEGORY: MACHINED SHAFT
+
+---
+
+Product Name:
+10 mm Stainless Steel Punching Machine Shaft
+
+Image:
+machined-shaft1.webp
+
+Description:
+Precision-machined stainless steel shaft designed for punching machine applications.
+
+Specifications:
+Material: Stainless Steel
+Usage/Application: Punching Machine
+Shaft Length: 100 mm
+Shaft Diameter: 10 mm
+Color: Silver
+Finish: Polished
+
+CATEGORY: STAINLESS STEEL BOLT
+
+---
+
+Product Name:
+1 Inch Stainless Steel Bolt Screw
+
+Image:
+stainless-steel-bolt1.webp
+
+Description:
+High-quality stainless steel bolt screw designed for secure fastening and hardware fitting applications.
+
+Specifications:
+Material Grade: 304
+Diameter: M6 (6 mm)
+Size: 1 Inch
+Shape: Round
+Usage/Application: Hardware Fitting
+Finish: Hot Dip Galvanized (HDG)
+Material: Stainless Steel
+
+

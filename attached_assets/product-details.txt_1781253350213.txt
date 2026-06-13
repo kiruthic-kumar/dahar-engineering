@@ -1,0 +1,128 @@
+CATEGORY: THREADED ROD
+
+Product Name: 0.5 Inch MS Trapezoidal Thread Rod
+
+Image: threaded-rod1.webp
+
+Description:
+Precision-engineered mild steel trapezoidal threaded rod designed for construction and industrial applications. Manufactured using EN8 steel for strength, durability, and corrosion resistance.
+
+Specifications:
+
+* Size/Diameter: 0.5 inch
+* Steel Grade: EN 8
+* Material: Mild Steel
+* Usage/Application: Construction
+* Surface Treatment: Hot Rolled
+* Corrosion Resistance: Yes
+* Length: 1 Feet
+
+---
+
+Product Name: 1 Feet Mild Steel Threaded Rod
+
+Image: threaded-rod2.webp
+
+Description:
+High-quality mild steel threaded rod suitable for outdoor and industrial applications requiring reliable fastening and durability.
+
+Specifications:
+
+* Material: Mild Steel
+* Usage/Application: Outdoor
+* Size: 1 Feet (L)
+* Screw Thread Length: 30 mm
+* Shape: Cylindrical
+* Screw Head: Round
+* Finishing: Polished
+
+---
+
+Product Name: 10 Inch Acme Screw Threaded Rod
+
+Image: threaded-rod3.webp
+
+Description:
+Precision acme screw threaded rod manufactured for outdoor and engineering applications where smooth operation and durability are required.
+
+Specifications:
+
+* Diameter: 8 mm
+* Usage/Application: Outdoor
+* Size: 10 Inch (L)
+* Material: Mild Steel
+* Shape: Cylindrical
+* Finishing: Polished
+
+---
+
+Product Name: 7 Inch GI Threaded Rod
+
+Image: threaded-rod4.webp
+
+Description:
+Galvanised iron threaded rod designed for corrosion resistance and long service life in industrial applications.
+
+Specifications:
+
+* Material: Galvanised Iron
+* Diameter: 4 mm
+* Corrosion Resistance: Yes
+* Size: 7 Inch (L)
+* Shape: Cylindrical
+* Finishing: Polished
+
+---
+
+Product Name: 25 Inch Mild Steel Threaded Rod
+
+Image: threaded-rod5.webp
+
+Description:
+Long-length mild steel threaded rod engineered for fastening and repair applications requiring strength and reliability.
+
+Specifications:
+
+* Shape: Round
+* Usage/Application: Household Repair
+* Material: Mild Steel
+* Color: Silver
+* Length: 25 Inch
+
+---
+
+Product Name: 8 Inch GI Threaded Rod
+
+Image: threaded-rod6.webp
+
+Description:
+High-performance galvanised iron threaded rod offering corrosion resistance and dependable industrial performance.
+
+Specifications:
+
+* Material: Galvanised Iron
+* Diameter: 2 mm
+* Corrosion Resistance: Yes
+* Size: 8 Inch (L)
+* Shape: Cylindrical
+* Finishing: Polished
+
+---
+
+
+
+Product Name: 8 mm Trapezoidal Thread Lead Screw Rod
+
+Image: threaded-rod7.webp
+
+Description:
+Precision stainless steel lead screw rod designed to convert rotary motion into linear motion for automation and engineering applications.
+
+Specifications:
+
+* Diameter: 8 mm
+* Material: Stainless Steel
+* Usage/Application: To Translate Turning Motion Into Linear Motion
+* Pattern: Threaded
+* Tolerance: 0.05 mm
+* Screw Pitch: 72 mm
